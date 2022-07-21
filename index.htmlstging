@@ -5,6 +5,7 @@
     <title>test page</title>
   </head>
   <body>
-    this is test.<br />production environment
+    this is test.<br />production
+    stging environment
   </body>
 </html>
